@@ -1,0 +1,6 @@
+{
+  "name": "TypoMatch PDF - Smart Font-Matching PDF Editor",
+  "description": "Advanced browser-based PDF editor with intelligent font and style consistency matching, layout recognition, precise annotation, and high-fidelity PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
